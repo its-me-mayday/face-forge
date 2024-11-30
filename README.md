@@ -47,7 +47,16 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+FaceScope is a Python-based face recognition system that uses OpenCV and the face_recognition library to detect and identify faces in real time. Designed with a modular architecture, it allows seamless extension and integration for projects ranging from home security to advanced AI applications.
+
+Key Features:
+
+- Real-time face detection using your webcam.
+- Easy configuration to add and recognize new faces.
+- Modular design for maintainability and scalability.
+- Visual feedback with bounding boxes for detected faces.
+
+Built for developers, researchers, and hobbyists interested in computer vision and AI.
 
 ---
 
