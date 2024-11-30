@@ -47,7 +47,7 @@
 
 ## 📍 Overview
 
-FaceScope is a Python-based face recognition system that uses OpenCV and the face_recognition library to detect and identify faces in real time. Designed with a modular architecture, it allows seamless extension and integration for projects ranging from home security to advanced AI applications.
+FaceForge is a Python-based face recognition system that uses OpenCV and the face_recognition library to detect and identify faces in real time. Designed with a modular architecture, it allows seamless extension and integration for projects ranging from home security to advanced AI applications.
 
 Key Features:
 
